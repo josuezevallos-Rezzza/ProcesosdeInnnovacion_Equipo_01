@@ -22,7 +22,7 @@ Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)*
 
 ---
 
-## 👥 Integrantes del Equipo
+##  Integrantes del Equipo
 
 | Foto | Nombre                        | Rol                          | Intereses                                                                           |
 | ---- | ----------------------------- | ---------------------------- | ----------------------------------------------------------------------------------- |
