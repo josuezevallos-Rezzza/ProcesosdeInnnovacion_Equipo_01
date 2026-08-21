@@ -16,3 +16,23 @@ Convertir problemas del entorno en oportunidades de cambio, desarrollando soluci
 ---
 
 Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
+
+
+
+
+---
+
+## 👥 Integrantes del Equipo
+
+| Foto | Nombre                        | Rol                          | Intereses                                                                           |
+| ---- | ----------------------------- | ---------------------------- | ----------------------------------------------------------------------------------- |
+|    | **Jherzon Huaroto Rosales**   | Encargado de documentación   | Comunicación científica                                                             |
+|    | **Shina Mercedes Morales**    | Responsable de investigación | Diseño de prototipos, análisis de datos                                             |
+|    | **Jhastin Ramos Flores**      | Programador                  | Inteligencia artificial, lógica                                                     |
+|    | **Giraldo Olortegui Yumitza** | Diseñadora                   | Diseño de soluciones, creatividad e innovación de procesos                          |
+|    | **Josue Job Zevallos Rezza**  | Líder del equipo             | Ciencia e ingeniería, creación de proyectos digitales, diseño y desarrollo personal |
+
+
+## 📌 Resumen Final
+
+Este README resume **quiénes somos, qué nos motiva y en qué Objetivos de Desarrollo Sostenible (ODS) queremos enfocar nuestro trabajo durante el curso**.
