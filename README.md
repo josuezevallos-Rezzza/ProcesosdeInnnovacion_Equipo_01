@@ -17,11 +17,11 @@ Convertir problemas del entorno en oportunidades de cambio, desarrollando soluci
 
 Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 <p align="center">
-  <img src="Imagenes/ODS/image1.png" width="120">
-  <img src="Imagenes/ODS/image2.png" width="120">
-  <img src="Imagenes/ODS/image3.png" width="120">
-  <img src="Imagenes/ODS/image4.png" width="120">
-  <img src="Imagenes/ODS/image5.png" width="120">
+  <img src="imagenes/ODS/image1.png" width="120">
+  <img src="imagenes/ODS/image2.png" width="120">
+  <img src="imagenes/ODS/image3.png" width="120">
+  <img src="imagenes/ODS/image4.png" width="120">
+  <img src="imagenes/ODS/image5.png" width="120">
 </p>
 
 
