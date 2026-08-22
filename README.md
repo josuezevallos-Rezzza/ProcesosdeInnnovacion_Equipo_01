@@ -1,6 +1,7 @@
 # Equipo 01 - Procesos de Innovación en Ingeniería
 
 **Carreras:** Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial
+
 **Universidad Peruana Cayetano Heredia**
 
 ---
